@@ -154,3 +154,6 @@ print(f'fosforo: {resumenP}')
 #AZUFRE
 _,_,resumenS = Resolucion(t_B=t_B_S, R=415, E=E_S, c_par=1, c_perp=1, h_par=0.4, h_perp=2.4, A=50, t=t_S, m=m_S)
 print(f'azufre: {resumenS}')
+
+
+Soy Teo.
